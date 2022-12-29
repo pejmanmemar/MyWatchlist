@@ -15,9 +15,10 @@ Features:
 1. Install the required packages mentioned in the requirements.txt file.
 2. Make sure you have Python3.8 installed on your system.
 3. Open terminal and run:
-    > cd src/
-    > python3.8 app.py
-
+```
+> cd src/
+> python3.8 app.py
+```
 # Demo
 
 - Search for a movie and add it to the movie watchlist:
