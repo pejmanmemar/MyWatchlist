@@ -25,10 +25,10 @@ Features:
 
 ![screen-gif](./demo/part_1.gif)
 
-- Watched movies for a specific user:
+- View watched movies for a specific user:
 
 ![screen-gif](./demo/part_2.gif)
 
-- List of TV shows and upcoming episodes:
+- View TV shows in the watchlist and upcoming episodes:
 
 ![screen-gif](./demo/part_3.gif)
