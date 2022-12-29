@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """ 
-Designed model to interact with search and database modules (the building block of app.py). 
+Designed model to interact with search and database modules (the building blocks of app.py). 
 """
 import sys
 from typing import Tuple
