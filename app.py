@@ -2,11 +2,11 @@
 """ 'My Watchlist' is a mini CLI app to keep track of movies and tv shows locally.
 
 Features:
-1) Simply search online by title or id using command line: scrape information from IMDB.
-2) simply add a movie or tv show using an IMDB id.
-3) View upcoming movies or episodes in your wachlist. 
-4) Intract with a local database (your watchlist) using sqlite3: store, view, and delete information.
-5) Supports multiple users
+- Simply search online by title or ID (the app will scrape information from IMDB).
+- Simply add a movie or TV show using an IMDB ID.
+- View upcoming movies or episodes in your watchlist. 
+- Interact with a local database (your watchlist) using sqlite3: store, view, and delete information.
+- Supports multiple users
 """
 
 from model import MovieWatchlist, TVWatchlist

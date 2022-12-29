@@ -7,7 +7,7 @@ Typical usage example:
 > search.search_by_title("avengers")
 > search.search_by_id("16358384")
 
-To intract with users:
+To interact with users:
 > search = Search(tv_show=False)
 > search.prompt_search_by_title()
 > search.prompt_search_by_id()
@@ -257,7 +257,7 @@ class Search:
 
     def prompt_search_by_title(self):
         """
-        Intract with user for the search_by_title function
+        Interact with user for the search_by_title function
         """
         try:
             title = input("Enter a partial title: ")
@@ -279,7 +279,7 @@ class Search:
 
     def prompt_search_by_id(self) -> pd.DataFrame:
         """
-        Intract with user for the search_by_id function
+        Interact with user for the search_by_id function
         """
         try:
             imdb_id = input("Enter an IMDB ID (only numbers): ")
