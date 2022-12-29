@@ -16,18 +16,19 @@ Features:
 1. Install the required packages mentioned in the requirements.txt file.
 2. Make sure you have Python3.8 installed on your system.
 3. Open terminal and run:
+
     > python3.8 app.py
 
 # Demo
 
 - Search for a movie and add it to the movie watchlist:
 
-![screen-gif](./part_1.gif)
+![screen-gif](./demo/part_1.gif)
 
 - Watched movies for a specific user:
 
-![screen-gif](./part_2.gif)
+![screen-gif](./demo/part_2.gif)
 
 - List of TV shows and upcoming episodes:
 
-![screen-gif](./part_3.gif)
+![screen-gif](./demo/part_3.gif)
