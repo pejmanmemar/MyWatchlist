@@ -11,24 +11,32 @@ Features:
 - Interact with a local database (your watchlist) using sqlite3: store, view, and delete information.
 - Supports multiple users
 
-# Instruction
-1. Install the required packages mentioned in the requirements.txt file.
-2. Make sure you have Python3.8 installed on your system.
-3. Open terminal and run:
+# Installation
+Make sure you have the following prerequisites:
+1. Python >= 3.8
+2. Pip
+3. Git
+
+For installing the app:
+1. Clone the repository in the directory you wish: ``` git clone https://github.com/pejmanmemar/MyWatchlist.git ```
+2. Enter the MyWatchlist directory: ``` cd MyWatchlist ```
+3. Install requirements: ```pip install -r requirements.txt``` 
+4. Run the app:
 ```
 > cd src/
 > python3.8 app.py
 ```
+
 # Demo
 
 - Search for a movie and add it to the movie watchlist:
 
 ![screen-gif](./demo/part_1.gif)
 
-- View watched movies for a specific user:
+- Watched movies for a specific user:
 
 ![screen-gif](./demo/part_2.gif)
 
-- View TV shows in the watchlist and upcoming episodes:
+- List of TV shows and upcoming episodes:
 
 ![screen-gif](./demo/part_3.gif)
