@@ -17,7 +17,7 @@ Make sure you have the following prerequisites:
 2. Pip
 3. Git
 
-For installing the app:
+Installing the app is easy:
 1. Clone the repository in the directory you wish: ``` git clone https://github.com/pejmanmemar/MyWatchlist.git ```
 2. Enter the MyWatchlist directory: ``` cd MyWatchlist ```
 3. Install requirements: ```pip install -r requirements.txt``` 
