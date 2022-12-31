@@ -11,7 +11,7 @@ Some of the exciting features offered by "My Watchlist" include:
 - Intuitive interface for viewing and managing your watchlist, including the ability to store, view, and delete information
 - Support for multiple users, so everyone in your household can have their own personalized watchlist
 
-Don't miss out on the opportunity to streamline your entertainment experience with My Watchlist – give it a try today!
+Don't miss out on the opportunity to streamline your entertainment experience with "My Watchlist" – give it a try today!
 
 
 # Installation
